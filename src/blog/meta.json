@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "tag": "",
+        "title": "learn basic git commands",
+        "description": "This post contains basic commands of git",
+        "publishedDate": "04Aug2021",
+        "thumbnailURL": "",
+        "filename": "learn_basic_github_commands.jsx"
+    },
+    {
+        "id": 2,
+        "tag": "",
+        "title": "Best free programming courses for beginners",
+        "description": "This blog contains list of free programming courses",
+        "publishedDate": "",
+        "filename": "free_programming_courses_for_beginners.jsx"
+    },
+    {
+        "id": 3,
+        "tag": "",
+        "title": "How to get started with Web Development",
+        "description": "This blog contains list of free programming courses",
+        "publishedDate": "",
+        "filename": "free_programming_courses_for_beginners.jsx"
+    },
+    {
+        "id": 4,
+        "tag": "",
+        "title": "How to make a transition into software industry",
+        "description": "This blog contains list of free programming courses",
+        "publishedDate": "",
+        "filename": "free_programming_courses_for_beginners.jsx"
+    },
+    {
+        "id": 5,
+        "tag": "",
+        "title": "",
+        "description": "",
+        "publishedDate": "",
+        "thumbnailURL": "",
+        "filename": ""
+    }
+]

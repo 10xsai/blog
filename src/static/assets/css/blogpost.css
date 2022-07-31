@@ -1,0 +1,29 @@
+h2{
+    margin: 35px 0 10px 0;    
+}
+
+h4 {
+    margin: 15px 0 8px 0;
+    padding-left: 10px;
+}
+
+p {
+    padding: 5px;
+}
+
+code {
+    display: block;
+    padding: 15px 15px 15px 30px;
+    border-radius: 5px;
+    background-color: #212529;
+}
+
+article div {
+    margin: 10px 0;
+    border-top: 1px solid white;
+}
+
+img {
+    display: block;
+    margin: 20px 10px 50px 10px;
+}
